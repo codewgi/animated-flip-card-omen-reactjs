@@ -8,9 +8,6 @@ function App() {
         <div className='relative preserve-3d group-hover:rotate-y-180 w-full h-full duration-500 '>
           <div className='w-full h-full absolute  rounded-3xl overflow-hidden flex items-end'>
             <img src='/img/omen.jpeg' className='w-full h-full'/>
-            {/* <span className='w-full text-center absolute bottom-10 z-10 text-4xl font-bold text-neutral-300 group-hover:opacity-10 duration-500'>
-              AGENT | OMEN
-            </span> */}
           </div>
           <div className='absolute rotate-y-180 backface-hidden w-full h-full bg-[#0F1823] bg-opacity-95 overflow-hidden rounded-3xl space-y-5 p-10 text-neutral-300'>
             <div>
